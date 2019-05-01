@@ -12,7 +12,7 @@ def multiply(numbers, multiplier)
 	p multiplied_numbers
 end
 
-
 my_numbers = [1,4,3,7,2,6]
+
 p "Numbers before mutation: #{my_numbers}"
 multiply(my_numbers, 3)
